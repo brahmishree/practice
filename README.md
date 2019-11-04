@@ -1,2 +1,2 @@
 # practice
-Contzins INSAID practice datasets
+Contains INSAID practice python code
